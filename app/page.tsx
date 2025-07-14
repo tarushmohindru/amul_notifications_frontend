@@ -414,7 +414,7 @@ export default function Component() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-4">
-              <h1 className="text-2xl font-bold text-gray-900">Amul Lassi</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Amul Protein Products</h1>
               <Badge variant="outline" className="hidden sm:inline-flex">
                 {Object.keys(allProducts).length} Products
               </Badge>
